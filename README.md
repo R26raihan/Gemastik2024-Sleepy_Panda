@@ -8,6 +8,13 @@ Networking Opportunities: Gemastik serves as a networking platform for students,
 Sleepy Panda 🌙🐼
 As a key project in Gemastik 2024, Sleepy Panda is an innovative application dedicated to sleep monitoring and disorder prediction. This application aims to assist users in understanding their sleep patterns and identifying potential sleep disorders, such as sleep apnea and insomnia. With the increasing awareness of sleep health, Sleepy Panda addresses a critical need for accessible and reliable tools for sleep analysis. 💤
 
+
+
+
+![WhatsApp Image 2024-10-13 at 12 11 03_7573cadf](https://github.com/user-attachments/assets/4b3a2228-b92f-40b6-8fc1-d2a0fbbc160b)
+
+
+
 Features and Technologies:
 User-Friendly Interface: Built using Flutter, the application boasts a sleek and intuitive interface, providing users with a seamless experience on both Android and iOS devices. The responsive design ensures that users can easily navigate through the app, making it simple to monitor their sleep habits and access insights. 📱
 
